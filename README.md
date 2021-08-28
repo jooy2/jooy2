@@ -1,5 +1,6 @@
 ## Welcome to Jooy's Hub 😎
 
+* [Blog](https://jootc.com)
 
 <a href="https://github.com/jooy2">
 <image align="center" width="48%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api?username=jooy2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="Jooy's Github Stats" />
