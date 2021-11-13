@@ -96,10 +96,10 @@
 </a>
 
 <a href="https://github.com/jooy2">
-<img align="center" width="40%" height="180px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooy2&layout=compact&theme=tokyonight&langs_count=6" alt="Jooy's Github Stats" />
+<img align="center" width="35%" height="180px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooy2&layout=compact&theme=tokyonight&langs_count=6" alt="Jooy's Github Stats" />
 </a>
 <a href="https://github.com/jooy2">
-<img align="center" width="59%" height="180px" src="https://github-profile-trophy.vercel.app/?username=jooy2&theme=darkhub&row=1&no-frame=true" alt="trophy" />  
+<img align="center" width="64%" height="180px" src="https://github-profile-trophy.vercel.app/?username=jooy2&theme=darkhub&row=1&no-frame=true" alt="trophy" />  
 </a>
 
 ## 💬 Contact
