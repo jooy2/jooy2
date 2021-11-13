@@ -99,8 +99,8 @@
 <image align="center" width="40%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooy2&layout=compact&theme=tokyonight&langs_count=6" alt="Jooy's Github Stats" />
 </a>
 
-## 💬 Learn More!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooylee/)
+## 💬 Contact
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooylee/) -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jootc.help@gmail.com)
 
 ## ❤ Donation
