@@ -101,6 +101,8 @@
 <a href="https://github.com/jooy2">
 <img align="center" width="64%" height="180px" src="https://github-profile-trophy.vercel.app/?username=jooy2&theme=darkhub&row=1&no-frame=true" alt="trophy" />  
 </a>
+<img src="https://activity-graph.herokuapp.com/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
+
 
 ## 💬 Contact
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooylee/) -->
