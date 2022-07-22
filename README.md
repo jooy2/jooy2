@@ -97,6 +97,16 @@
 
 ## 📊 GitHub Stats
 
+<a href="https://opgc.me/#/users/jooy2" target="_blank">
+<img align="center" width="32%" height="160px" src="https://api.opgc.me/githubs/users/jooy2/tag/?theme=basic" alt="rank" />
+</a>
+<a href="https://github.com/jooy2">
+<img align="center" width="33%" height="160px" src="https://github-profile-trophy.vercel.app/?username=jooy2&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
+</a>
+<a href="https://github.com/jooy2">
+<img align="center" width="33%" height="160px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooy2&layout=compact&theme=tokyonight&langs_count=6" alt="Jooy's Github Stats" />
+</a>
+
 <a href="https://github.com/jooy2">
 <img align="center" width="48%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api?username=jooy2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="Jooy's Github Stats" />
 </a>
@@ -104,14 +114,8 @@
 <img align="center" width="49%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/wakatime?username=jooy2&layout=compact&theme=tokyonight&langs_count=8" alt="Jooy's Github Stats" />
 </a>
 
-<a href="https://github.com/jooy2">
-<img align="center" width="40%" height="160px" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooy2&layout=compact&theme=tokyonight&langs_count=6" alt="Jooy's Github Stats" />
-</a>
-<a href="https://github.com/jooy2">
-<img align="center" width="59%" height="160px" src="https://github-profile-trophy.vercel.app/?username=jooy2&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
-</a>
-<img src="https://activity-graph.herokuapp.com/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
 
+<img src="https://activity-graph.herokuapp.com/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
 
 ## 💬 Contact
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooylee/) -->
