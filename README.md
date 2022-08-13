@@ -1,7 +1,9 @@
 <img alt="top" width="100%" height="80px" src="assets/top.gif" />
 
-<div>
-<div align="left" style="width: 68%; float: left">
+<table>
+<tbody>
+<tr style="border: none">
+<td style="width: 70%; border: none; float: left">
 
 <div style="margin-bottom: 20px">
   <p>I'm a web, desktop and mobile application software engineer.</p>
@@ -166,9 +168,8 @@
     </tbody>
 </table>
 
-</div>
-
-<div align="right" style="width: 28%; float: right">
+</td>
+<td style="width: 29%; border: none; float: right">
     <img alt="mm-animate" align="right" src="assets/mm-walk.gif" />
     <table style="display: inline-table; border: none">
         <tbody style="border: none">
@@ -188,11 +189,13 @@
             </tr>
         </tbody>
     </table>
-</div>
+</td>
 
-</div>
+</tr>
+</tbody>
+</table>
 
-<table style="text-align: center; border-collapse: collapse; margin: 50px 0">
+<table style="text-align: center; border-collapse: collapse">
   <tbody>
     <tr style="border: none">
       <td colspan="3" style="border: none; text-align: start">
