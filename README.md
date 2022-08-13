@@ -1,6 +1,7 @@
 <img alt="top" width="100%" height="80px" src="assets/top.gif" />
 
-<div align="left" style="width: 70%; float: left">
+<div>
+<div align="left" style="width: 68%; float: left">
 
 <div style="margin-bottom: 20px">
   <p>I'm a web, desktop and mobile application software engineer.</p>
@@ -13,7 +14,7 @@
 
 ---
 
-<table style="display: inline-table">
+<table>
     <thead>
         <tr>
             <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
@@ -65,7 +66,7 @@
     </tbody>
 </table>
 
-<table style="display: inline-table">
+<table>
     <thead>
         <tr>
             <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
@@ -120,7 +121,7 @@
     </tbody>
 </table>
 
-<table style="display: inline-table">
+<table>
     <thead>
         <tr>
             <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
@@ -187,6 +188,8 @@
             </tr>
         </tbody>
     </table>
+</div>
+
 </div>
 
 <table style="text-align: center; border-collapse: collapse; margin: 50px 0">
