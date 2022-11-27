@@ -1,20 +1,14 @@
 <img alt="top" width="100%" height="80px" src="assets/top.gif" />
 
-<table>
-<tbody>
-<tr style="border: none">
-<td style="width: 70%; border: none; float: left">
 
 <div style="margin-bottom: 20px">
   <p>I'm a web, desktop and mobile application software engineer.</p>
   
   <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooylee/) -->
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jootc.help@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jooy.contact@gmail.com)
   [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2)
 
 </div>
-
----
 
 <table>
     <thead>
@@ -86,13 +80,11 @@
                 <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
                 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"/>
                 <img alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"/>
-                <br/>
                 <img alt="ElectronJS" src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white"/>
                 <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
                 <img alt="VuetifyJS" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF"/>
                 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white"/>
                 <img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/>
-                <br/>
                 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
                 <img alt="SemanticUI" src="https://img.shields.io/badge/Semantic%20UI-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white"/>
                 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"/>
@@ -153,7 +145,6 @@
                 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
                 <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black"/>
                 <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white"/>
-                <br/>
                 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
                 <img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white"/>
                 <img alt="AdobeCreativeCloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
@@ -169,33 +160,6 @@
             </td>
         </tr>
     </tbody>
-</table>
-
-</td>
-<td style="width: 29%; border: none; float: right">
-    <img alt="mm-animate" src="assets/mm-walk.gif" />
-    <table style="display: inline-table; border: none">
-        <tbody>
-            <tr style="border: none">
-                <td style="border: none; width: 10%">🌏</td>
-                <td style="border: none; width: 90%">South Korea</td>
-            </tr>
-            <tr style="border: none">
-                <td style="border: none; width: 10%">🎂</td>
-                <td style="border: none; width: 90%">1996</td>
-            </tr>
-            <tr style="border: none">
-                <td style="border: none; width: 10%">🔗</td>
-                <td style="border: none; width: 90%">
-                    <del><strong><a href="https://jooy2.com" target="_blank">jooy2.com</a></strong></del>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</td>
-
-</tr>
-</tbody>
 </table>
 
 <table style="text-align: center; border-collapse: collapse">
@@ -225,8 +189,6 @@
     </tr>
   </tbody>
 </table>
-
----
 
 <a href="https://opgc.me/#/users/jooy2" target="_blank">
 <img align="center" width="32%" height="135px" src="https://api.opgc.me/githubs/users/jooy2/tag/?theme=prism" alt="rank" />
