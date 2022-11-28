@@ -11,16 +11,14 @@
 </div>
 
 <table>
-    <thead>
+    <tbody>
         <tr>
-            <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
+            <td colspan="2" style="font-weight: bold; background: #131313; padding: 8px 20px">
                 Languages & Tech
             </td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
-            <td>⭐⭐⭐</td>
+            <td width="100px">⭐⭐⭐</td>
             <td>
                 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
                 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
@@ -59,18 +57,11 @@
                 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
         <tr>
-            <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
+            <td colspan="2" style="font-weight: bold; background: #131313; padding: 8px 20px">
                 Frameworks & Libraries
             </td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td>⭐⭐⭐</td>
             <td>
@@ -114,18 +105,11 @@
                 <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82"/>
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
         <tr>
-            <td colspan="5" style="font-weight: bold; background: #131313; padding: 8px 20px">
+            <td colspan="2" style="font-weight: bold; background: #131313; padding: 8px 20px">
                 Web Services & Tools
             </td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td>🧰</td>
             <td>
