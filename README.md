@@ -192,4 +192,4 @@
 </a>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
