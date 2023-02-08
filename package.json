@@ -1,0 +1,23 @@
+{
+  "name": "jooy2",
+  "version": "1.0.0",
+  "description": "Jooy2 GitHub Profile",
+  "private": true,
+  "scripts": {
+    "format": "prettier .",
+    "format:fix": "prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jooy2/jooy2.git"
+  },
+  "author": "jooy2 <jooy2.contact@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jooy2/jooy2/issues"
+  },
+  "homepage": "https://github.com/jooy2/jooy2#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
