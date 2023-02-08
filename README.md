@@ -1,5 +1,3 @@
-![header](assets/top.gif)
-
 I'm a web, desktop and mobile application software engineer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jooy2.contact@gmail.com) [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2)
