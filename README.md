@@ -39,15 +39,6 @@ I'm a web, desktop and mobile application software engineer.
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=%23FFFFFF)
 
-
-## Projects
-
-<div>
-<a href="https://jootc.com" target="_blank">
-    <img alt="jootc-logo" src="assets/logo/jootc.png" width="200" />
-</a>
-</div>
-
 ## GitHub activity
 
 <a href="https://opgc.me/#/users/jooy2" target="_blank">
