@@ -58,4 +58,4 @@ I'm a web, desktop and mobile application software engineer.
 <img align="center" width="49%" src="https://github-readme-stats-jooy2.vercel.app/api/wakatime?username=jooy2&layout=compact&theme=tokyonight&langs_count=8" alt="Jooy's Github Stats" />
 </a>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph-git-main-jooy2.vercel.app/graph?username=jooy2&theme=react-dark" alt="Github Activity Graph" width="100%" />
