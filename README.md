@@ -6,7 +6,7 @@ Hello! I'm a Korean software engineer developing full-stack websites and web app
 - I'm using the `JavaScript`, `Dart`, and `Python` languages.
 - I am very interested in participating in **GitHub** open source projects.
 
-You can star the repositories you're interested in, or follow me on the left side of my profile to stay in the loop. Thank you for your support!
+You can star the repositories you're interested in, or follow me on the left side of my profile to stay in the loop. Thank you for your support!
 
 [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=social&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://jooy2.com/donate)
 
