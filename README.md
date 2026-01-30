@@ -1,18 +1,6 @@
-풀스택 웹사이트와 크로스 플랫폼 애플리케이션 그리고 다양한 오픈소스에 기여하는 한국인 개발자입니다.
-
-2014년부터 여러가지 웹사이트 및 서비스를 운영 중에 있으며, `JavaScript`와 `Dart`를 주 언어로 사용하고 있습니다. 마음에 드는 프로젝트에 GitHub Star를 남겨주세요. 팔로우나 후원을 통해 제 프로젝트를 지원해주실 수 있습니다.
-
-I'm a Korean developer who builds Fullstack websites, cross-platform applications, and contributes to various open source projects.
-
-Since 2014, he has been running several websites and services, using `JavaScript` and `Dart` as his main languages. Leave a GitHub Star for your favorite projects. You can support my projects by following or donating.
-
 [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=social&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://jooy2.com/donate)
 
-Contact:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jooy2.contact@gmail.com)
-
-# Tech Stack
+Full-stack website & Cross-platform application development 🇰🇷
 
 **Languages & Tech:**
 
@@ -30,8 +18,6 @@ Contact:
 **Interested in:**
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=%23FFFFFF)
-
-# GitHub Activity
 
 <a href="https://github.com/jooy2">
 <img align="center" width="49%" src="https://github-readme-stats-jooy2.vercel.app/api?username=jooy2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="Jooy's Github Stats" />
