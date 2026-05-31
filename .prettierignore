@@ -5,5 +5,9 @@
 .idea/
 .vscode/
 
+# AI
+.claude/worktree
+.claude/*.local.json
+
 # Project files
 .github/
