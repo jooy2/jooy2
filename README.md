@@ -21,7 +21,7 @@ Hi there 👋 I'm a software engineer building and operating a variety of open-s
 
 **TypeScript** · Node.js · React / Next.js · Vue · Electron · Flutter · Docker · GCP · Cloudflare · MariaDB
 
-Full skill set → [jooy2.com/en/skills](https://jooy2.com/en/skills)
+Full skill set → [jooy2.com/skills](https://jooy2.com/skills)
 
 ## Featured Open Source
 
