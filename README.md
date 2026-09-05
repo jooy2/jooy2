@@ -77,5 +77,5 @@ All of these projects are maintained under **[CDGet](https://cdget.com)**, where
 <img align="center" width="49%" src="https://github-readme-stats-jooy2.vercel.app/api?username=jooy2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="jooy2's GitHub stats" />
 </a>
 <a href="https://github.com/jooy2?tab=repositories">
-<img align="center" width="49%" src="https://github-readme-stats-jooy2.vercel.app/api/top-langs?username=jooy2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" alt="jooy2's most used languages" />
+<img align="center" width="49%" src="https://github-readme-stats-jooy2.vercel.app/api/top-langs?username=jooy2&card_width=467&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" alt="jooy2's most used languages" />
 </a>
