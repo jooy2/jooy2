@@ -25,12 +25,45 @@ Full skill set → [jooy2.com/en/skills](https://jooy2.com/en/skills)
 
 ## Featured Open Source
 
+All of these projects are maintained under **[CDGet](https://cdget.com)**, where you can browse the full list and read the details of each project.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="140"><a href="https://github.com/jooy2/vutron"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/vutron.webp" width="56" height="56" alt="vutron logo" /><br />vutron</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/vitepress-sidebar"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/vitepress-sidebar.webp" width="56" height="56" alt="vitepress-sidebar logo" /><br />vitepress-sidebar</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/retron"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/retron.webp" width="56" height="56" alt="retron logo" /><br />retron</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/vitepress-i18n"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/vitepress-i18n.webp" width="56" height="56" alt="vitepress-i18n logo" /><br />vitepress-i18n</a></td>
+</tr>
+<tr>
+<td align="center" width="140"><a href="https://github.com/jooy2/gtag-ga"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/gtag-ga.webp" width="56" height="56" alt="gtag-ga logo" /><br />gtag-ga</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/qsu"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/qsu.webp" width="56" height="56" alt="qsu logo" /><br />qsu</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/nodesand"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/nodesand.webp" width="56" height="56" alt="nodesand logo" /><br />nodesand</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/chki18n"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/chki18n.webp" width="56" height="56" alt="chki18n logo" /><br />chki18n</a></td>
+</tr>
+<tr>
+<td align="center" width="140"><a href="https://github.com/jooy2/mawy"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/mawy.webp" width="56" height="56" alt="mawy logo" /><br />mawy</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/nextart"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/nextart.webp" width="56" height="56" alt="nextart logo" /><br />nextart</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/terser-glob"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/terser-glob.webp" width="56" height="56" alt="terser-glob logo" /><br />terser-glob</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/material-plus-ui"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/material-plus-ui.webp" width="56" height="56" alt="material-plus-ui logo" /><br />material-plus-ui</a></td>
+</tr>
+<tr>
+<td align="center" width="140"><a href="https://github.com/jooy2/neba"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/neba.webp" width="56" height="56" alt="neba logo" /><br />neba</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/plass-ui"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/plass-ui.webp" width="56" height="56" alt="plass-ui logo" /><br />plass-ui</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/randino"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/randino.webp" width="56" height="56" alt="randino logo" /><br />randino</a></td>
+<td align="center" width="140"><a href="https://github.com/jooy2/sample-assets"><img src="https://raw.githubusercontent.com/jooy2/jooy2/master/assets/logo/sample-assets.webp" width="56" height="56" alt="sample-assets logo" /><br />sample-assets</a></td>
+</tr>
+</table>
+</div>
+
 | Project | Description | Stars |
 | --- | --- | --- |
 | **[vutron](https://github.com/jooy2/vutron)** | Vite + Electron + Vue 3 + Vuetify + TypeScript starter template | ![vutron stars](https://img.shields.io/github/stars/jooy2/vutron?style=flat-square&labelColor=1a1b27&color=70a5fd) |
 | **[vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)** | Auto sidebar generator plugin for VitePress | ![vitepress-sidebar stars](https://img.shields.io/github/stars/jooy2/vitepress-sidebar?style=flat-square&labelColor=1a1b27&color=70a5fd) |
 | **[flare](https://github.com/jooy2/flare)** | Flash player alternative built on the Ruffle emulator | ![flare stars](https://img.shields.io/github/stars/jooy2/flare?style=flat-square&labelColor=1a1b27&color=70a5fd) |
 | **[retron](https://github.com/jooy2/retron)** | Vite + React + Electron + Material UI starter template | ![retron stars](https://img.shields.io/github/stars/jooy2/retron?style=flat-square&labelColor=1a1b27&color=70a5fd) |
+| **[vitepress-i18n](https://github.com/jooy2/vitepress-i18n)** | Translates the VitePress default theme and its search tool | ![vitepress-i18n stars](https://img.shields.io/github/stars/jooy2/vitepress-i18n?style=flat-square&labelColor=1a1b27&color=70a5fd) |
+| **[gtag-ga](https://github.com/jooy2/gtag-ga)** | Google Analytics 4 page view and event tracking for Node.js | ![gtag-ga stars](https://img.shields.io/github/stars/jooy2/gtag-ga?style=flat-square&labelColor=1a1b27&color=70a5fd) |
 
 → [All repositories](https://github.com/jooy2?tab=repositories)
 
